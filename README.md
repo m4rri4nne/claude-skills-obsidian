@@ -1,6 +1,7 @@
 # ✨ Claude Skills
 
 A cozy little [Obsidian](https://obsidian.md) plugin that lets you browse your [Claude Code](https://claude.com/claude-code) skills and slash commands, peek at their details, and run them with a single click 🖱️ — from a sidebar panel or straight from your Kanban cards.
+> 🚧 **Work in progress!** This is a personal plugin, still growing and occasionally rough around the edges. Things may change, break, or get polished without warning. Contributions, bug reports, and gentle nudges are very welcome.
 
 ## 🌟 Features
 
