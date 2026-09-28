@@ -1,0 +1,9 @@
+{
+  "id": "claude-skills",
+  "name": "Claude Skills",
+  "version": "1.1.0",
+  "minAppVersion": "1.0.0",
+  "description": "Browse your Claude Code skills, view their details, and run them with one click — from a sidebar panel or straight from Kanban cards.",
+  "author": "Alicia de Paula",
+  "isDesktopOnly": true
+}
